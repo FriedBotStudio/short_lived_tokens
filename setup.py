@@ -28,6 +28,10 @@ setuptools.setup(
     },
     include_package_data=True,
     install_requires=['typing_extensions', 'pycryptodome'],
+    url="https://github.com/FriedBotStudio/short_lived_tokens",
+    project_urls={
+        "Bug Tracker": "https://github.com/FriedBotStudio/short_lived_tokens/issues",
+    },
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
@@ -36,4 +40,5 @@ setuptools.setup(
         "License :: OSE Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    python_requires=">=3.6",
 )
