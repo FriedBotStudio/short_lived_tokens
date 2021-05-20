@@ -5,7 +5,7 @@ single time use token. Token expiry can be set as small as **100 milliseconds** 
 
 ## Quick Setup
 
-Use `pip install short_lived_tokens` to install the library.
+Use `pip install short-lived-tokens` to install the library See [PYPI](https://pypi.org/project/short-lived-tokens/).
 
 ## Usage
 
