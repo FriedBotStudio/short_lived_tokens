@@ -37,7 +37,7 @@ setuptools.setup(
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Framework :: Django",
-        "License :: OSE Approved :: MIT License",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
